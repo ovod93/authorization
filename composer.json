@@ -1,0 +1,14 @@
+{
+    "name": "alex/autorisation",
+    "description": "autorisation",
+    "authors": [
+        {
+            "name": "a.shein",
+            "email": "a.shein@robofinance.ru"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.41",
+        "guzzlehttp/psr7": "^1.7"
+    }
+}
